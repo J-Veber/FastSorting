@@ -1,0 +1,54 @@
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\K_04_0510.exe.config
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.csprojResolveAssemblyReference.cache
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.generate.resources
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.main.resources
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.Properties.Resources.resources
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.csproj.GenerateResource.Cache
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\K_04_0510.exe
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\K_04_0510.pdb
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.exe
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.pdb
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.graph.resources
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.experiment.resources
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\ZedGraph.dll
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\ZedGraph.xml
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Veiber\Desktop\K_04\K_04_0510\K_04_0510\bin\Debug\zh-tw\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\K_04_0510.exe.config
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\K_04_0510.exe
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\K_04_0510.pdb
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\ZedGraph.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\ZedGraph.xml
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\de\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\es\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\fr\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\hu\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\it\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\ja\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\pt\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\ru\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\sk\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\sv\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\tr\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\zh-cn\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\bin\Debug\zh-tw\ZedGraph.resources.dll
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.csprojResolveAssemblyReference.cache
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.experiment.resources
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.generate.resources
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.graph.resources
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.main.resources
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.Properties.Resources.resources
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.csproj.GenerateResource.Cache
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.exe
+H:\с ноута\Documents1\Учеба\2 курс\K_04\K_04_0510\K_04_0510\obj\Debug\K_04_0510.pdb
